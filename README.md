@@ -7,11 +7,7 @@
 ### 🛠 Skills  
 - Languages: Python, SQL, JavaScript  
 - Tools: Git, Power BI, Pandas, NumPy, Matplotlib  
-- Domains: Machine Learning, Data Science, Data Visualization  
-
-### 📌 Projects  
-- [ML-Predictor](link): User behavior prediction model  
-- [PowerBI-Dashboard](link): Business insights dashboard  
+- Domains: Machine Learning, Data Science, Data Visualization   
 
 🎯 Vision: Build a Space Agency & contribute to India's future in Space 🚀  
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/purshottam-kumar-8a810229a) | [Email](purshottamk75@gmail.com)  
